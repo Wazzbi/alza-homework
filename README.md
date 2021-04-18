@@ -1,3 +1,8 @@
+# READ ME
+
+Úkol byl testovaný v google chrome.\
+Pro načtení dat a obejití CORS (Allow-Access-Control-Origin) použit doplněk do browseru (https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino?utm_source=chrome-ntp-icon)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

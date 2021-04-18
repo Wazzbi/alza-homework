@@ -1,0 +1,17 @@
+@import '~bootstrap/scss/bootstrap';
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+// override carousel classes
+
+.react-multiple-carousel__arrow--left {
+  left: 0 !important;
+}
+
+.react-multiple-carousel__arrow--right {
+  right: 0 !important;
+}
